@@ -13,7 +13,7 @@
 using namespace m5;
 
 // External button pin
-#define EXT_BUTTON_PIN 38
+#define EXT_BUTTON_PIN 1
 
 // Menu configuration
 const int MENU_COUNT = 4;
