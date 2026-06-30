@@ -1,3 +1,4 @@
+<img width="1280" height="960" alt="canon demo" src="https://github.com/user-attachments/assets/a51b822c-b959-4f8c-8639-03dc1dfe9f88" />
 Bluetooth remote control for Canon EOS cameras,
 built on the M5Stack AtomS3 platform. 
 single-button navigation, and optional external button support.
