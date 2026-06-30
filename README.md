@@ -8,7 +8,7 @@ Remote autofocus trigger
 Start/stop video recording
 Easy camera pairing
 Short press = execute, long press = navigate
-External Button Support - Optional wired button on GPIO38
+External Button Support - Optional wired button on GPIO 1 (Grove connector)
 
 Hardware Requirements
 
